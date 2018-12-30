@@ -1,8 +1,7 @@
 -- @author cedlemo
 --
 --
-local base = require("wibox.layout.base")
-local widget_base = require("wibox.widget.base")
+local base = require("wibox.widget.base")
 local table = table
 local pairs = pairs
 local floor = math.floor
